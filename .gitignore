@@ -1,0 +1,6 @@
+checkpoints
+models
+datasets
+/mnist/logging/
+/mnist/lightning_logs/
+/mnist/__pycache__/
